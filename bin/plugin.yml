@@ -1,0 +1,9 @@
+name: RandomItem
+version: 1.0
+author: Jrooairle
+main: com.jroo3.Main
+
+commands:
+  tygi:
+  newitem:
+    aliases: [ni]
